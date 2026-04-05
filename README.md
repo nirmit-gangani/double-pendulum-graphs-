@@ -25,7 +25,7 @@ The simulation uses the **fourth-order Runge-Kutta (RK4)** method to integrate t
 
 ## Files
 
-- `double_pendulum_chaos.py` — Main simulation script with full visualization and Lyapunov analysis
+- `code.py` — Main simulation script with full visualization and Lyapunov analysis
 - 
 ## Requirements
 
