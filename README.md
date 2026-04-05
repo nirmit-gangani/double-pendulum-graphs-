@@ -26,7 +26,7 @@ The simulation uses the **fourth-order Runge-Kutta (RK4)** method to integrate t
 ## Files
 
 - `code.py` — Main simulation script with full visualization and Lyapunov analysis
-- 
+
 ## Requirements
 
 ```bash
