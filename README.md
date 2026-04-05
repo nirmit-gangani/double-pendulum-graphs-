@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project investigates the **limits of predictability** in chaotic systems using the **double pendulum** as a model. Although governed by fully deterministic equations, the double pendulum exhibits extreme sensitivity to initial conditions — a hallmark of chaos known as the "butterfly effect".
+This project investigates the **limits of predictability** in chaotic systems using the **double pendulum** as a model. Although governed by fully deterministic equations, the double pendulum exhibits extreme sensitivity to initial conditions a hallmark of chaos known as the "butterfly effect".
 
 The simulation uses the **fourth-order Runge-Kutta (RK4)** method to integrate the equations of motion and quantifies chaotic behavior through **Lyapunov exponent calculation** and **predictability horizon estimation**.
 
